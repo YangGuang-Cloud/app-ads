@@ -1,12 +1,9 @@
-# Unity Ads
-unityads.unity3d.com, 4465955, DIRECT, f08c47fec0942fa0
-
 # AdMob
 # google.com, pub-1075713357383253, DIRECT, f08c47fec0942fa0
 google.com, pub-2506414060948572, DIRECT, f08c47fec0942fa0
 
-ownerdomain=app-ads-nu.vercel.app
-
+# Unity Ads
+unityads.unity3d.com, 4465955, DIRECT, f08c47fec0942fa0
 advertising.com, 82632, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 azberry.com, 321006, RESELLER
