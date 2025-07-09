@@ -1,6 +1,9 @@
 # AdMob
 google.com, pub-2506414060948572, DIRECT, f08c47fec0942fa0
 
+# Facebook
+facebook.com, 1346157420029088, DIRECT, c3e20eee3f780d68
+
 # Unity Ads
 unityads.unity3d.com, 4465955, DIRECT, f08c47fec0942fa0
 advertising.com, 82632, RESELLER
